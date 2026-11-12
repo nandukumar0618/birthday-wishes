@@ -297,7 +297,7 @@ flames.forEach(
                 } else {
 
                     candleMessage.textContent =
-                        "✨ Wish made! Happy Birthday Marya! 🎉";
+                        "✨ Wish made! Happy Birthday Charmisha! 🎉";
 
                     createConfetti(150);
 
